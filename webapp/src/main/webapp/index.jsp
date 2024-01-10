@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Laptop offers are available till sankranthi festival Jan 2024 </h1>   
+         <h1> Iphone offers are available till sankranthi festival Jan 2024 </h1>   
 	 
 
     </section>    
